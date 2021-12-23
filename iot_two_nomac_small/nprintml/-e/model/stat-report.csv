@@ -1,0 +1,2 @@
+f1_micro,f1_macro,balanced_accuracy,roc_macro,roc_weighted
+0.50,0.41,0.55,0.55,0.55
